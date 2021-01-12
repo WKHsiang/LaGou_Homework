@@ -63,6 +63,10 @@ module.exports = {
         port: 3000
     },
 
+    // fe9fc7b871e4cbd6b35f3c5d33a62c5b5e529c34
+
+    // https://gist.github.com/lipengzhou/b92f80142afa37aea397da47366bd872
+
     // 注册插件
     plugins: [
         '~/plugins/request.js',
